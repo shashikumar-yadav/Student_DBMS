@@ -122,6 +122,7 @@ INSERT INTO Courses (course_name, department, credits, faculty_id) VALUES
 ('Cloud Computing', 'Information Technology', 3, 24),
 ('Environmental Engineering', 'Civil Engineering', 4, 25);
 
+---inserting 25 values in Students Table
 
 INSERT INTO Students (first_name, last_name, email, dob, gender, department) VALUES
 ('Aarav', 'Sharma', 'aarav.sharma@example.com', '2002-03-15', 'Male', 'Computer Science'),
@@ -149,9 +150,11 @@ INSERT INTO Students (first_name, last_name, email, dob, gender, department) VAL
 ('Meera', 'Iyer', 'meera.iyer@example.com', '2001-05-19', 'Female', 'Information Technology'),
 ('Rohan', 'Deshmukh', 'rohan.deshmukh@example.com', '2000-11-30', 'Male', 'Mechanical Engineering');
 
+---adding 25th value as above consisted of 24 value
 INSERT INTO Students (first_name, last_name, email, dob, gender, department) VALUES
 ('Kritika', 'Nair', 'kritika.nair@example.com', '2002-07-25','Female','Information Technology');
 
+---Checking entries
 Select * from  Enrollments;
 
 ---Inserting 25 records in enrollment table
