@@ -19,7 +19,7 @@ The Student Database Management System (DBMS) efficiently manages student data, 
 
 
 # 🧠 Author
--Shashikumar Yadav
--IT Consultant & MSc Data Science Student
--Specializing in Power BI, Python, SQL
+- Shashikumar Yadav
+- IT Consultant & MSc Data Science Student
+- Specializing in Power BI, Python, SQL
 
