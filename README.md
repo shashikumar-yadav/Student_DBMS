@@ -2,7 +2,7 @@
 The Student Database Management System (DBMS) efficiently manages student data, including personal details, course enrollments, attendance, and performance tracking.
 
 
-#Key Features:
+# Key Features:
 1. Students Table – Stores student details such as name, email, date of birth, gender, and department.
 2. Courses Table – Maintains a list of available courses, their names, credit hours, and assigned instructors.
 3. Enrollments Table – Tracks student registrations in different courses along with their grades.
@@ -10,7 +10,7 @@ The Student Database Management System (DBMS) efficiently manages student data, 
 5. Instructors Table – Holds information about faculty members, their assigned courses, and departments.
 
 
-#Functional Capabilities:
+# Functional Capabilities:
 1. Efficient Student Management: Allows institutions to add, update, and retrieve student details.
 2. Course Registration & Enrollment: Tracks which students are registered for which courses.
 3. Performance Monitoring: Stores and retrieves grades to analyze top-performing students.
@@ -18,8 +18,8 @@ The Student Database Management System (DBMS) efficiently manages student data, 
 5. Instructor Management: Organizes faculty details and their assigned subjects.
 
 
-#🧠 Author
-Shashikumar Yadav
-IT Consultant & MSc Data Science Student
-Specializing in Power BI, Python, SQL
+# 🧠 Author
+-Shashikumar Yadav
+-IT Consultant & MSc Data Science Student
+-Specializing in Power BI, Python, SQL
 
